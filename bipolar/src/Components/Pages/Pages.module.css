@@ -1,0 +1,29 @@
+nav:hover{
+    color:rgb(226, 128, 43);
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    
+} 
+nav ul{
+    list-style: none;
+    display:inline;
+   
+}
+nav ul a {
+    color:aqua;
+    font-size:large;
+}
+.main {
+    width: 1115.33px;
+    /* height: 1191px; */
+    display: inline-flex;
+    padding: 76px 162.667px 77px 162px;
+    justify-content: center;
+    align-items: center;
+    background: #FBFCFD;
+  }
+  

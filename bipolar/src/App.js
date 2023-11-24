@@ -1,9 +1,10 @@
-import './App.css';
+import React from 'react';
+import Pages from "./Components/Pages/Pages";
 
 function App() {
   return (
     <>
-    hello
+      <Pages />
     </>
   );
 }
