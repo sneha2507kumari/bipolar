@@ -1,4 +1,5 @@
-// Pages.js
+
+
 import React from 'react';
 import Hero from "../Hero/Hero";
 import styles from "../Pages/Pages.module.css";
